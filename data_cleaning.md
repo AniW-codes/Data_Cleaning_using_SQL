@@ -3,7 +3,9 @@
 ## Project Overview
 
 **Project Title**: Nashville Housing Data for Data Cleaning  
-**Level**: Intermediate
+
+**Level**: Beginner
+
 **Database**: `Portfolio_Project`
 
 This project demonstrates the implementation of data cleaning using SQL. It includes cleaning and  managing tables, performing CRUD operations, and executing advanced SQL queries. 
